@@ -12,6 +12,10 @@
 ----
 
 ## arxiv
+- [ ] Semi-convolutional Operators for Instance Segmentation. | [paper](https://arxiv.org/pdf/1807.10712.pdf)
+- [ ] Sparse and Dense Data with CNNs: Depth Completion and Semantic Segmentation. | [paper](https://arxiv.org/pdf/1808.00769.pdf)
+- [ ] BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation. | [paper](https://arxiv.org/pdf/1808.00897.pdf)
+- [ ] CU-Net: Coupled U-Nets | [paper](https://arxiv.org/pdf/1808.06521.pdf)
 - [ ] OCNet: Object Context Network for Scene Parsing | [paper](https://arxiv.org/pdf/1809.00916.pdf) | [code](https://github.com/PkuRainBow/OCNet)
 - [ ] Dual Attention Network for Scene Segmentation | [paper](https://arxiv.org/pdf/1809.02983.pdf) | [code] on the way
 - [ ] Mask Editor : an Image Annotation Tool for Image Segmentation Tasks | [paper](https://arxiv.org/pdf/1809.06461.pdf)
