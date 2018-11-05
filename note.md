@@ -10,6 +10,16 @@
 * blog: 
   * [全卷积网络 FCN 详解](http://www.cnblogs.com/gujianhan/p/6030639.html)
   
+### SegNet
+
+* paper: [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561)
+* code: 
+  * caffe code : [SegNet-Tutorial](https://github.com/alexgkendall/SegNet-Tutorial) | [project](http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html)
+  * tensorflow code : [TF-SegNet](https://github.com/mathildor/TF-SegNet)
+  * tensorflow code : [Tensorflow-SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet)
+* blog: 
+  * [语义分割论文-SegNet](http://hellodfan.com/2017/11/10/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%E8%AE%BA%E6%96%87-SegNet/)
+  
 ### deeplab v1
 
 * paper: [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062)
