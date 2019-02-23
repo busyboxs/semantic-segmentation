@@ -7,9 +7,18 @@
 * paper: [Fully Convolutional Networks for Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html)
 * code: 
   * caffe code : [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
+* slides: [Fully Convolutional Networks](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf)
 * blog: 
   * [全卷积网络 FCN 详解](http://www.cnblogs.com/gujianhan/p/6030639.html)
   * [Review: FCN — Fully Convolutional Network (Semantic Segmentation)](https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1)
+  
+### DeconvNet
+
+* paper: [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366)
+* code:
+  * caffe code : [https://github.com/HyeonwooNoh/DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)
+* blog:
+  * [Review: DeconvNet — Unpooling Layer (Semantic Segmentation)](https://towardsdatascience.com/review-deconvnet-unpooling-layer-semantic-segmentation-55cf8a6e380e)
   
 ### SegNet
 
