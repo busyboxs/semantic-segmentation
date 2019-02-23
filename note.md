@@ -9,6 +9,7 @@
   * caffe code : [https://github.com/shelhamer/fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)
 * blog: 
   * [全卷积网络 FCN 详解](http://www.cnblogs.com/gujianhan/p/6030639.html)
+  * [Review: FCN — Fully Convolutional Network (Semantic Segmentation)](https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1)
   
 ### SegNet
 
@@ -19,6 +20,7 @@
   * tensorflow code : [Tensorflow-SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet)
 * blog: 
   * [语义分割论文-SegNet](http://hellodfan.com/2017/11/10/%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%E8%AE%BA%E6%96%87-SegNet/)
+  * [Review: SegNet (Semantic Segmentation)](https://towardsdatascience.com/review-segnet-semantic-segmentation-e66f2e30fb96)
   
 ### deeplab v1
 
